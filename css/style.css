@@ -1,0 +1,365 @@
+body{
+    background-color: #fff;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    
+}
+.container{
+    height: 1000px;
+    width: 100% ;
+}
+.header{
+    height: 40px;
+    width: 100%;
+    background: #f5f5f5;
+}
+.image{
+    height: 30px;
+    width: 30px;
+    padding-top: 5px;
+    margin-left: 45px;
+}
+.div-layout-1{
+    padding-top: 10px;
+    margin-right: 70px;
+    float: right;
+}
+.or{
+    padding: 10px;
+}
+.layout-1{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    font-size: 15px;
+    color: #111;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.header-1{
+    width: 100%;
+    height: 60px;
+    background: #fff;
+}
+
+.image1{
+    
+    width: 22%;
+    float: left;
+    margin-left: 40px;
+}
+.div-layout-2{
+    float: left;
+    width: 40%;
+    padding: 20px;
+}
+.font{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #111;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 50px;
+}
+.layout-right-2{
+    width:30%;
+    float: right;
+}
+.search{
+    color: inherit;
+    margin-top: 10px;
+    padding-top: 12px;
+    padding-right: 48px;
+    padding-bottom: 12px;
+    padding-left: 48px;
+    border-radius:25px;
+    border: 0;
+    background: #f5f5f5;
+}
+.pre-search-input-icon{
+    cursor: pointer;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#favorites{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+#bag{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.content-1{
+    width: 100%;
+    height: 60px;
+    background: #f5f5f5;
+}
+.para{
+    padding-top: 10px;
+    text-align: center;
+    color:#111 ;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-decoration: none;
+}
+.image-center{
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+}
+#markdowns{
+    color:black;
+    cursor:pointer;
+}
+.div-layout-3{
+    text-align:center;
+    width : 100%;
+    height: 250px;
+}
+#heading{
+    padding-top: 10px;
+    font-family: "Nike Futura","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size : 50px;
+    color:#111;
+    font-weight: bolder ;
+
+}
+#para-1{
+    margin-top: -15px;
+    font-size : 15px;
+    color:#111;
+}
+.btn-1{
+    padding: 6px 20px;
+    background: black;
+    color: #fff;
+    border-radius: 30px;
+    border: 1.5px solid transparent;
+    cursor: pointer;
+}
+.feat{
+    margin-left: 80px;
+    padding-top: 20px;
+    height:10px;
+    width: 100%;
+    color: #111;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.products{
+    padding-top: 50px;
+    width: 100%;
+    height: 670px;
+}
+.section-left{
+    cursor: pointer;
+    width: 45%;
+    height : 650px;
+    float: left;
+    padding-left: 50px;
+}
+.section-right{
+    cursor: pointer;
+    width: 45%;
+    height : 650px;
+    float: left;
+    padding-left: 50px;
+}
+#img-1{
+    width: 100%;
+    height:100%;
+    padding-left: 20px;
+    z-index: -1;
+}
+#img-2{
+    width: 100%;
+    height:100%;
+    z-index: -100;
+}
+.btn-2{
+    padding: 6px 20px;
+    background: black;
+    color: #fff;
+    font-weight: bold;
+    font-size : 18px;
+    border-radius: 30px;
+    border: 1.5px solid transparent;
+    cursor: pointer;
+
+}
+.btn-3{
+    padding: 6px 20px;
+    background: #fff;
+    color: #111;
+    font-weight: bold;
+    font-size : 18px;
+    border-radius: 30px;
+    border: 1.5px solid #111;
+    cursor: pointer;
+
+}
+.newhead{
+    margin-left: 70px;
+    margin-top: -150px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.footer{
+    width: 100%;
+    height:330px;
+    background: #111;
+}
+.footer-font{
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+.div-footer-left{
+    float: left;
+    width:20%;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+.div-footer-left li{
+    margin-left: 20px;
+    padding-top: 15px;
+}
+.location{
+    fill: #fff;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 80px;
+    color: #fff;
+}
+#sub-footer{
+    cursor:text;
+    color: #7e7e7e;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 90px;
+    font-size: 10px;
+}
+.div-footer-center{
+    float: left;
+    width:10%;
+    margin-left: 70px;
+    padding-top: 48px;
+}
+.div-footer-center li{
+    list-style-type: none;
+    margin-left: -40px;
+    margin-top: 4px;
+}
+
+.font-footer{
+    color: hsl(0, 0%, 49%);
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 10px;
+}
+.font-footer:hover{
+    color: #fff;
+}
+.div-footer-right{
+    float:left;
+    width:45%;
+    margin-left: 70px;
+    padding-top: 48px;
+
+}
+.icon-link{
+    color: #7e7e7e;
+}
+.social-link-icon {
+    fill: #7e7e7e;
+    transition: fill .2s;
+}
+.social-icon ul{
+    margin-left: 400px;
+}
+.social-icon li{
+    margin-left: 10px;
+    float: left;
+    list-style-type: none;
+}
+.social-link-icon:hover{
+    fill: #fff;
+    transition: fill .2s;
+}
+.security ul{
+    margin-top: 250px;
+    margin-left: 240px;
+    list-style-type: none;
+}
+.security li{
+    float: left;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    margin-left: 30px;
+}
+.security li a:hover{
+    color: #fff;
+}
+.security li a{
+    text-decoration: none;
+    color: hsl(0, 0%, 49%);
+}
+.lists{
+    float: left;
+    width: 10%;
+    height: 220px;
+    margin-left: 160px;
+}
+
+
+
+.hello{
+    width: 100%;
+    height: 210px;
+    
+    transition: height 200ms;
+}
+.hello:hover{
+    height: 335px;
+}
+.hello:hover .list-2 {
+    display: block;
+    overflow: visible;
+    
+}
+.hello h4{
+    font-weight: bolder;
+    margin-left: 40px;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.list-2{
+    overflow: hidden;
+    display: none;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: all .5s;
+}
+
+.lists li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.lists li a{
+    
+    color: #757575;
+    transition: all .3s;
+    font-family: inherit;
+    font-size: 12px;
+    
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
